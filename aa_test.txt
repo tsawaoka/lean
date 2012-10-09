@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+変fsafasf
+
+更したー
+=======
 変更し
 
 fdsafsdafsafsdf
 たー
+>>>>>>> 0611458215a6825379bec3b1809b96f7fb6fe9a6
 
